@@ -1,0 +1,34 @@
+Lynne Diep
+lytdiep@ucsc.edu
+CMPS101 - PA5
+README
+
+List.c -
+Double linked list ADT that stores integers as data
+Same List.c as PA2
+
+List.h -
+Header for double linked list ADT
+Same List.h as PA2
+
+Graph.c -
+defines a struct called GraphObj, and Graph.h will define
+a type called Graph that points to this struct.
+
+Graph.h -
+Header for graph that points to GraphObj
+
+GraphTest.c -
+Client test for Graph ADT
+
+Makefile -
+Compiles all source files into an executable
+
+README -
+Text file that defines the files submitted
+
+FindComponents.c -
+Assemble a graph object G using newGraph() and addArc().
+Run DFS on G and G^T.
+Determine the strong components of G.
+Print the strong components of G to the output file in topologically sorted order.
