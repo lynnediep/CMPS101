@@ -1,0 +1,31 @@
+Lynne Diep
+lytdiep@ucsc.edu
+CMPS101 - PA2
+README
+
+List.c
+An ADT that is bi-directional queue that includes
+a "cursor" to be used for iteration.
+The list has two ends, a "front" and "back" respectively.
+
+ListClient.c
+The test client that is already given to us.
+Is used to test List ADT.
+
+Lex.c
+Will take two command line arguments giving the names
+of an input file and output file.
+
+List.h
+List ADT method signatures.
+
+Makefile
+Compiles all .c files in the current directory
+and creates an executable jar file called Lex.
+Makefile for PA2 has been given to use beforehand.
+
+README
+File listing the files used and submitted for PA2,
+along with a description of the contents
+for each file.
+
