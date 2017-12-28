@@ -1,0 +1,35 @@
+ynne Diep
+lytdiep@ucsc.edu
+CMPS 101
+PA 3
+README
+
+Sparse.java
+The top level client module.
+It will take two command line
+arguments giving the names of the input
+and output files, respectively.
+
+Matrix.java
+Matrix ADT. Will contain a private inner
+class (similar to Node in your List ADT)
+that encapsulates the column and value
+information corresponding to a matrix entry.
+
+List.java
+A doubly linked list creating a List ADT.
+convert List ADT(PA1) from a List of ints
+to a List of Objects.
+
+MatrixTest.java
+Client modules to test Matrix ADT in isolation.
+
+ListTest.java
+Client modules to test List ADT in isolation.
+
+Makefile
+Taken from PA3 example.
+Compiles java files into jar.
+
+README
+Text file describing the files.
