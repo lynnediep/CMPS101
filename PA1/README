@@ -1,0 +1,27 @@
+Lynne Diep
+lytdiep@ucsc.edu
+PA 1
+README
+
+Lex.java
+Will take two command line arguments giving the names
+of an input file and output file.
+
+ListClient.java
+The test client that is already given to us.
+Is used to test List ADT.
+
+List.java
+An ADT that is bi-directional queue that includes
+a "cursor" to be used for iteration.
+The list has two ends, a "front" and "back" respectively.
+
+Makefile
+Compiles all .java files in the current directory
+and creates an executable jar file called Lex.
+Makefile for PA1 has been given to use beforehand.
+
+README
+File listing the files used and submitted for PA1,
+along with a description of the contents
+for each file.
